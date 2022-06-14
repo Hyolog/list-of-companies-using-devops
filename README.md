@@ -12,3 +12,4 @@ DevOps 문화가 있는 국내 기업 정보
 - [플라잎](https://www.wanted.co.kr/wd/105183)
 - [럭스소프트코리아](https://www.wanted.co.kr/wd/112460)
 - [애드쉴드](https://www.wanted.co.kr/wd/91817)
+- [오드컨셉](https://www.wanted.co.kr/wd/38061)
