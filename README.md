@@ -17,3 +17,4 @@ DevOps 문화가 있는 국내 기업 정보
 - [마이리얼트립](https://www.wanted.co.kr/wd/41659)
 - [네이버제트](https://www.wanted.co.kr/wd/117957)
 - [차이코퍼레이션](https://www.rocketpunch.com/jobs/129220)
+- [카카오엔터프라이즈](https://linkareer.com/activity/86167)
