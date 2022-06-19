@@ -19,3 +19,4 @@ DevOps 문화가 있는 국내 기업 정보
 - [차이코퍼레이션](https://www.rocketpunch.com/jobs/129220)
 - [카카오엔터프라이즈](https://linkareer.com/activity/86167)
 - [카카오페이](https://www.teamblind.com/kr/company/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4/job/95)
+- [잡플래닛](https://www.jobplanet.co.kr/companies/86783/job_postings/1231062/devops-engineer/devops-engineer)
