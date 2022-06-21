@@ -21,3 +21,4 @@ DevOps 문화가 있는 국내 기업 정보
 - [카카오페이](https://www.teamblind.com/kr/company/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4/job/95)
 - [카카오페이증권](https://www.wanted.co.kr/wd/64223?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [뱅크샐러드](https://jobs.smartrecruiters.com/banksalad/743999817755466?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+- [빗썸](https://www.jumpit.co.kr/position/8975?DP=POSITION_VIEW_RECOMMEND&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
