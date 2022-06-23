@@ -23,3 +23,4 @@ DevOps 문화가 있는 국내 기업 정보
 - [뱅크샐러드](https://jobs.smartrecruiters.com/banksalad/743999817755466?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [빗썸](https://www.jumpit.co.kr/position/8975?DP=POSITION_VIEW_RECOMMEND&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [스켈터랩스](https://www.rocketpunch.com/jobs/129303/InfraDevops-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+- [메스프레소](https://www.rocketpunch.com/jobs/102016/DevOps-Engineer-%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4)
