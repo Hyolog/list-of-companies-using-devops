@@ -29,3 +29,4 @@ DevOps 문화가 있는 국내 기업 정보
 - [에이비일팔공](https://www.rocketpunch.com/jobs/128144/Junior-DevOps-Engineer%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4)
 - [바디프랜드](https://www.wanted.jobs/wd/81164?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [한국투자증권](https://www.wanted.jobs/wd/115838?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+- [뤼이드](https://www.wanted.co.kr/wd/37580?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
