@@ -32,3 +32,4 @@ DevOps 문화가 있는 국내 기업 정보
 - [뤼이드](https://www.wanted.co.kr/wd/37580?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [크래프톤](https://www.wanted.co.kr/wd/116855?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [엔카닷컴](https://www.rocketpunch.com/jobs/121723/DevOps-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+- [Electronic Arts Korea](https://www.wanted.co.kr/wd/120986)
