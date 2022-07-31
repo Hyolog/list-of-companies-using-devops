@@ -36,3 +36,4 @@ DevOps 문화가 있는 국내 기업 정보
 - [트릿지](https://www.rocketpunch.com/jobs/131136/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-DevOps-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [파운트](https://www.rocketpunch.com/jobs/131072/%ED%95%80%ED%85%8C%ED%81%AC-%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4DevOps-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [닥터나우](https://www.wanted.co.kr/wd/121707?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+- [넥슨코리아](https://www.wanted.co.kr/wd/120618)
