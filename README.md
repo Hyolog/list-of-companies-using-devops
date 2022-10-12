@@ -39,3 +39,4 @@ DevOps 문화가 있는 국내 기업 정보
 - [넥슨코리아](https://www.wanted.co.kr/wd/120618)
 - [라인넥스트](https://careers.linecorp.com/ko/jobs/1211)
 - [파스토](https://www.wanted.co.kr/wd/44509?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+- [카카오모빌리티](https://boards.greenhouse.io/kakaomobility/jobs/4037172005?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
