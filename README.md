@@ -40,3 +40,4 @@ DevOps 문화가 있는 국내 기업 정보
 - [라인넥스트](https://careers.linecorp.com/ko/jobs/1211)
 - [파스토](https://www.wanted.co.kr/wd/44509?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [카카오모빌리티](https://boards.greenhouse.io/kakaomobility/jobs/4037172005?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+- [채널코퍼레이션](https://jobs.lever.co/zoyi/56661820-4c76-4ded-b1cd-7bad478d192d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
