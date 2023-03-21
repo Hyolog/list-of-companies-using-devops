@@ -42,3 +42,4 @@ DevOps 문화가 있는 국내 기업 정보
 - [카카오모빌리티](https://boards.greenhouse.io/kakaomobility/jobs/4037172005?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [채널코퍼레이션](https://jobs.lever.co/zoyi/56661820-4c76-4ded-b1cd-7bad478d192d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 - [카카오뱅크](https://www.catch.co.kr/NCS/RecruitInfoDetails/163653)
+- [페이타랩](https://www.jobkorea.co.kr/Recruit/GI_Read/41127335?Oem_Code=C1&logpath=1&stext=%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4&listno=4)
