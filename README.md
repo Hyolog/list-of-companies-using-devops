@@ -44,3 +44,4 @@ DevOps 문화가 있는 국내 기업 정보
 - [카카오뱅크](https://www.catch.co.kr/NCS/RecruitInfoDetails/163653)
 - [페이타랩](https://www.jobkorea.co.kr/Recruit/GI_Read/41127335?Oem_Code=C1&logpath=1&stext=%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4&listno=4)
 - [렌딧](https://www.wanted.co.kr/wd/142458)
+- [몰큐브](https://www.wanted.co.kr/wd/169207)
