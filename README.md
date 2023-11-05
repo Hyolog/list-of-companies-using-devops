@@ -46,3 +46,4 @@ DevOps 문화가 있는 국내 기업 정보
 - [렌딧](https://www.wanted.co.kr/wd/142458)
 - [몰큐브](https://www.wanted.co.kr/wd/169207)
 - [라온피플](https://www.wanted.co.kr/wd/187584)
+- [SK플래닛](https://www.catch.co.kr/NCS/RecruitInfoDetails/243501)
