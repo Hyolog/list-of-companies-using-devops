@@ -53,4 +53,4 @@ DevOps 문화가 있는 국내 기업 정보
 |[SK플래닛](https://www.catch.co.kr/NCS/RecruitInfoDetails/243501)||
 |[리브애니웨어](https://www.wanted.co.kr/wd/146565)|Terraform, CloudFormation, Docker, Teamcity, CodeDeploy, Datadog |
 |[현대모비스](https://careers.mobis.com/jobs-view?seq=3664)|Jenkins, Cloudbees, k8s |
-|[티맵모빌리](https://www.skcareers.com/Recruit/Detail/R260107)||
+|[티맵모빌리티](https://www.skcareers.com/Recruit/Detail/R260107)||
